@@ -4,7 +4,10 @@
   "description": "Progetto template per la creazione servizi backend con NodeTypeScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "ts-node -r tsconfig-paths/register src/index.ts",
+    "start:prod": "node -r ts-node/register/transpile-only -r tsconfig-paths/register src/index.ts",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
