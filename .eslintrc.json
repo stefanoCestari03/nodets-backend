@@ -26,10 +26,7 @@
             "error",
             "tab"
         ],
-        "linebreak-style": [
-            "error",
-            "windows"
-        ],
+        
         "quotes": [
             "error",
             "double"
@@ -38,11 +35,11 @@
             "error",
             "always"
         ],
-        "prettier/prettier": "error",
+        "prettier/prettier":"error",
         "import/extensions": "off",
         "no-console": "off",
         "import/prefer-default-export": "off",
-        "import/no-default-export": "error",
+        "import/no-default-export": "off",
         "no-use-before-define": [
             "error",
             {
