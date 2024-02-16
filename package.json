@@ -1,6 +1,6 @@
 {
   "name": "nodets-backend",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Progetto template per la creazione servizi backend con NodeTypeScript",
   "main": "index.js",
   "scripts": {
