@@ -1,0 +1,24 @@
+{
+  "name": "nodets-backend",
+  "version": "1.0.1",
+  "description": "Progetto template per la creazione servizi backend con NodeTypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pietro2356/nodets-backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "aws"
+  ],
+  "author": "Pietro Rocchio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pietro2356/nodets-backend/issues"
+  },
+  "homepage": "https://github.com/pietro2356/nodets-backend#readme"
+}
