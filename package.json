@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/pietro2356/nodets-backend/issues"
   },
-  "homepage": "https://github.com/pietro2356/nodets-backend#readme"
+  "homepage": "https://github.com/pietro2356/nodets-backend#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
 }
