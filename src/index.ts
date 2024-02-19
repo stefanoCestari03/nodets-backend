@@ -1,3 +1,3 @@
-import add from "./math/add";
+import {add} from "@math/add";
 
-console.log("La somma di 1 e 2 è: " + add(1, 2));
+console.log("Somma 3 e 6: ", add(3, 6)); // 9@ma
